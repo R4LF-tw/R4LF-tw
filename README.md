@@ -25,7 +25,8 @@
   
   <div>
     Extras:
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://camo.githubusercontent.com/9a2ddf2bacab4119a931ada7bc7ded01c147c1d88602654c46c26e9af65f6273/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d7973716c2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6162656c436f6c6f723d304431313137"> 
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="![image](https://user-images.githubusercontent.com/80691464/222225202-540a9aeb-6f85-45f1-8c99-59e7d2025016.png)
+"> 
     
   </div>
   <div>
