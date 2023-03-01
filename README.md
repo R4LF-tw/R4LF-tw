@@ -12,7 +12,10 @@
   <img height="130em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Franchini&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
 <div>
-  ### SKILLS
+  <div>
+   SKILLS  
+  </div>
+  
   3Principais:
   <img align="center" alt="Rafa-py" height="40px" width="40px" src="https://img.icons8.com/fluency/344/python.png"> 
   <img align="center" alt="Rafa-c++" height="40px" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png"> 
@@ -21,7 +24,7 @@
   <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/344/html-5--v1.png"> 
   #Extras:
   <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/344/html-5--v1.png"> 
-  #Ferramentas:
+  Ferramentas:
   
   
 </div>
