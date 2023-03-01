@@ -25,7 +25,8 @@
   
   <div>
     Extras:
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://icons8.com.br/icon/39855/logo-mysql.png"> 
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://icons8.com.br/icon/UFXRpPFebwa2/logo-mysql"> 
+    
   </div>
   <div>
     Ferramentas:  
