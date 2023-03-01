@@ -2,8 +2,9 @@
 
 
 - 🔭 Atualmente não estou trabalhando...
-- 🌱 estou aprendendo Front end(html,css,js) ...
-- 👨‍🎓 cursando Engenharia da computação na FHO...
+- 🌱 estou aprendendo Front end(html,css,js)(danki code)
+- 👨‍🎓 cursando Engenharia da computação na FHO 4° de 6 anos ...
+- 🎴 designer grafico (DDQ)
 - https://keepo.io/rafael_franchini/
 
 <div>
@@ -25,16 +26,21 @@
   
   <div>
     Extras:
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/mysql-logo.png"/>> 
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/mysql-logo.png" />
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/fluency/48/null/adobe-photoshop.png"/>
+    
     
   </div>
   <div>
     Ferramentas:  
-    
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/office-365.png"/>
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/linux--v1.png"/>
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/windows-10.png"/>
  <div>
   
-  
-  
+
 </div>
 
 ##
