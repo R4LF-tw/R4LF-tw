@@ -25,8 +25,7 @@
   
   <div>
     Extras:
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="![image](https://user-images.githubusercontent.com/80691464/222225202-540a9aeb-6f85-45f1-8c99-59e7d2025016.png)
-"> 
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com.br/icon/vR6XrZzQr1CN/my-sql.png"> 
     
   </div>
   <div>
