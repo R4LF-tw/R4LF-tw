@@ -25,7 +25,7 @@
   
   <div>
     Extras:
-    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/ios-filled/50/null/mysql-logo.png"/>> 
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/mysql-logo.png"/>> 
     
   </div>
   <div>
