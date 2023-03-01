@@ -16,15 +16,22 @@
    SKILLS  
   </div>
   
-  3Principais:
+  Principais:
   <img align="center" alt="Rafa-py" height="40px" width="40px" src="https://img.icons8.com/fluency/344/python.png"> 
   <img align="center" alt="Rafa-c++" height="40px" width="40px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png"> 
   <img align="center" alt="Rafa-js" height="40px" width="40px" src="https://img.icons8.com/color/344/javascript--v1.png"> 
   <img align="center" alt="Rafa-css" height="40px" width="40px" src="https://img.icons8.com/color/344/css3.png"> 
   <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/344/html-5--v1.png"> 
-  #Extras:
-  <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/344/html-5--v1.png"> 
-  Ferramentas:
+  
+  <div>
+    Extras:
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/344/html-5--v1.png"> 
+  </div>
+  <div>
+    Ferramentas:  
+    
+ <div>
+  
   
   
 </div>
