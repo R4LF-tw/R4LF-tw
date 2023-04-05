@@ -1,8 +1,7 @@
 ### Olá, Eu sou o Rafael Franchini 👋
 
 
-- 🔭 Atualmente não estou trabalhando...
-- 🌱 estou aprendendo Front end(html,css,js)(danki code)
+- 🌱 aprendendo Front end(html,css,js)(danki code)
 - 👨‍🎓 cursando Engenharia da computação na FHO 4° de 6 anos ...
 - 🎴 designer grafico (DDQ)
 - https://keepo.io/rafael_franchini/
