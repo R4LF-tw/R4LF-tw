@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Rafael Franchini 👋
 
 
-- 🌱 aprendendo Front end(html,css,js)(danki code)
+- 🌱 aprendendo Desenvolvimento mobile com Flutter/Dart
 - 👨‍🎓 cursando Engenharia da computação na FHO 4° de 6 anos ...
 - 🎴 designer grafico (DDQ)
 - https://keepo.io/rafael_franchini/
