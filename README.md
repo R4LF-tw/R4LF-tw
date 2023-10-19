@@ -24,6 +24,10 @@
   <img align="center" alt="Rafa-js" height="40px" width="40px" src="https://img.icons8.com/color/344/javascript--v1.png"> 
   <img align="center" alt="Rafa-css" height="40px" width="40px" src="https://img.icons8.com/color/344/css3.png"> 
   <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/344/html-5--v1.png"> 
+  <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/dart.png.png"> 
+  <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/flutter.png"> 
+  <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"> 
+  
   
   <div>
     Extras:
@@ -36,6 +40,7 @@
     Ferramentas:  
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/office-365.png"/>
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
+    <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/android-studio--v3.png"/>
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/>
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/linux--v1.png"/>
     <img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/null/windows-10.png"/>
