@@ -2,6 +2,7 @@
 
 
 - 🌱 aprendendo Desenvolvimento mobile com Flutter/Dart
+- 🌱 Conhecimentos em Front-End
 - 👨‍🎓 cursando Engenharia da computação na FHO 4° de 6 anos ...
 - 🎴 designer grafico (DDQ)
 - https://keepo.io/rafael_franchini/
