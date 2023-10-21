@@ -53,5 +53,5 @@
 ##
 
 <div>
-  <a href="rflfranchini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="rflfranchini@gmail.com" target="_blank"><img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/color/48/gmail--v1.png"/></a>
 </div>
