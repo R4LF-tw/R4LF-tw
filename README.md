@@ -58,7 +58,9 @@
   <a href="https://www.instagram.com/rafael_franchini/" target="_blank"><img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/fluency/48/instagram-new.png"/></a>
   <a href="https://www.linkedin.com/in/rafael-franchini-37b0a21a4/" target="_blank"><img align="center" alt="Rafa-html" height="40px" width="40px" src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
 </div>
+
 ##
+
 <div>
   icons by <a href="https://icons8.com">Icons8</a>
 </div>
