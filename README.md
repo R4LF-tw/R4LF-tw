@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Rafael Franchini 👋
 
 
-- 🌱 Aprendendo Desenvolvimento mobile com Flutter/Dart
+- 🌱 Desenvolvimento mobile com Flutter/Dart
 - 🌱 Conhecimentos em Front-End
 - 👨‍🎓 Cursando Engenharia da computação na FHO 5° de 6 anos ...
 - 🎴 Designer grafico (DDQ)
